@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hom-ksd" alt="hom-ksd" />
+    <img src="https://github-profile-trophy.vercel.app/?username=k4sidej" alt="k4sidej" />
   </a> 
 </p>
 
@@ -102,8 +102,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hom-ksd&show_icons=true&locale=en&layout=compact" alt="hom-ksd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k4sidej&show_icons=true&locale=en&layout=compact" alt="k4sidej" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hom-ksd&show_icons=true&locale=en" alt="hom-ksd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k4sidej&show_icons=true&locale=en" alt="k4sidej" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hom-ksd&" alt="hom-ksd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k4sidej&" alt="k4sidej" /></p>
